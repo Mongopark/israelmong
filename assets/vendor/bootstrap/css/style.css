@@ -5,6 +5,17 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+/*--------------------------------------------------------------
+# Home Page Image
+--------------------------------------------------------------*/
+ section#hero{
+background-size: cover;
+background-image: cover;
+ }
+
+
+
+
 
 /*--------------------------------------------------------------
 # Logo And Background
