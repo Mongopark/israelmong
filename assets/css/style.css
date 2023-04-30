@@ -604,6 +604,34 @@ section {
   margin-bottom: 0;
 }
 
+
+
+
+#about .col-left .about-img {
+  position: relative;
+  border: 10px solid #040b14;
+  border-radius: 10px 20px;
+  height: 100%;
+}
+
+#about .col-left .about-img::after {
+  background-color: #34b7a7;
+  content: "";
+  position: absolute;
+  left: -33px;
+  top: 33px;
+  height: 98%;
+  width: 98%;
+  border: 7px solid #34b7a7;
+  border-radius: 10px 20px;
+  z-index: -1;
+}
+/*  #about .about .col-right .about-img::after {
+    left: -45%;
+    top: 24px;
+    height: 98%;
+    border: 10px solid #34b7a7;
+  }*/
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
