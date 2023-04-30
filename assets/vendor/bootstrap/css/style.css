@@ -1,10 +1,4 @@
-/**
-* Template Name: iPortfolio
-* Updated: Mar 10 2023 with Bootstrap v5.2.3
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 /*--------------------------------------------------------------
 # Home Page Image
 --------------------------------------------------------------*/
@@ -20,7 +14,7 @@ background-image: cover;
 /*--------------------------------------------------------------
 # Logo And Background
 --------------------------------------------------------------*/
- @media (min-width: 1000px) {
+ @media (min-width: 1200px) {
  div#fixx {
     top: -5em;
   }
@@ -41,7 +35,7 @@ i.mobile-nav-toggle{
 .logo {
   display:none;
 }}
-  @media (max-width: 1000px) {
+  @media (max-width: 1200px) {
   header#header {
     left: -300px;
   }
