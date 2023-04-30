@@ -42,7 +42,7 @@ img.webdev{
 #main {
   margin-left: 300px;
 }
- @media (min-width: 1400px) {
+ @media (min-width: 1000px) {
  div#fixx {
     top: -5em;
   }
@@ -53,7 +53,7 @@ img.webdev{
   display:none;
 }
 }
-@media (max-width: 1400px) {
+@media (max-width: 1000px) {
   header#header {
     left: -300px;
   }

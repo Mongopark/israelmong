@@ -1,10 +1,4 @@
-/**
-* Template Name: Kelly
-* Updated: Mar 10 2023 with Bootstrap v5.2.3
-* Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 
 // var toggler=document.queryselector("#mobile-nav-toggle");
 // toggler.addEventListener("click",chanGe);
@@ -32,8 +26,6 @@
 //     }
 //   });
 // });
-
-
 
 
 

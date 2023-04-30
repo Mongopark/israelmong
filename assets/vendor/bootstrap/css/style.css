@@ -20,7 +20,7 @@ background-image: cover;
 /*--------------------------------------------------------------
 # Logo And Background
 --------------------------------------------------------------*/
- @media (min-width: 1400px) {
+ @media (min-width: 1000px) {
  div#fixx {
     top: -5em;
   }
@@ -41,7 +41,7 @@ i.mobile-nav-toggle{
 .logo {
   display:none;
 }}
-  @media (max-width: 1400px) {
+  @media (max-width: 1000px) {
   header#header {
     left: -300px;
   }
