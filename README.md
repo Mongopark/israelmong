@@ -39,7 +39,7 @@ Contact page with a form for visitors to send me a message or get in touch with 
 
 ## How to Use
 
-To view the website, simply visit [my portfolio website](https://mongisreal.vercel.app)
+To view the website, simply visit [my portfolio website](https://mongisrael.vercel.app)
 
 ### To download and run the website locally on your computer, follow these steps:
 
